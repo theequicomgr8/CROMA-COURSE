@@ -1,0 +1,2 @@
+[19-Dec-2023 08:42:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/cromag8l/course.cromacampus.com/vendor/dompdf/dompdf/src/Frame/FrameTree.php on line 242
+[19-Dec-2023 08:43:36 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home3/cromag8l/course.cromacampus.com/vendor/dompdf/dompdf/src/Frame/FrameTree.php on line 242

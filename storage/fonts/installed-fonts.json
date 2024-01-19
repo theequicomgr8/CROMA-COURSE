@@ -1,0 +1,23 @@
+{
+    "noto sans jp": {
+        "900": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/noto_sans_jp_900_c9084199ecdc402716c277c0015e7c6f",
+        "bold": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/noto_sans_jp_bold_8bcbb72e19ece3da6feec10cb452e8dc",
+        "800": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/noto_sans_jp_800_f7b0a3383157cb27c5d557a4cc9c2372",
+        "200": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/noto_sans_jp_200_8492498961f1bf6c88ba968032a884b8",
+        "300": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/noto_sans_jp_300_2d605f7137824a4dec2bb81290f59fae",
+        "500": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/noto_sans_jp_500_bd34409829e3dc5e78c2acd3ed69cecb",
+        "normal": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/noto_sans_jp_normal_cdbae3c31ca8fb402e6e81517de48127",
+        "600": "noto_sans_jp_600_f60566a9468af959e30fddd04e1aaa9f"
+    },
+    "whisper": {
+        "normal": "whisper_normal_b772b0a1fcc99b896827726d77f9fc1a"
+    },
+    "montserrat": {
+        "normal": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/montserrat_normal_00833106404dc8458cdfb436c759f23d",
+        "500": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/montserrat_500_1236ec90acb329158f494b3fcb44327e",
+        "600": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/montserrat_600_485729d96603ccf9729bf58de2db0851",
+        "bold": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/montserrat_bold_5da7810bf4e960efe50d20e94a894069",
+        "800": "\/home3\/cromag8l\/course.cromacampus.com\/storage\/fonts\/montserrat_800_bb4fb217ae8181e31fdcc24e6f32a5f3",
+        "900": "montserrat_900_f1f1d05ddbc7bae79cf2388a44df7c8f"
+    }
+}

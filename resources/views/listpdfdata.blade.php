@@ -1,0 +1,13 @@
+{
+  "draw": 1,
+  "recordsTotal": 15,
+  "recordsFiltered": 15,
+  "data": [
+    [
+ "<div class='accordion-item'> <h2 class='accordion-header' id='headingOne'> <div class='accordion-button collapsed' type='button' data-bs-toggle='collapse' data-bs-target='#collapseOne' aria-expanded='true' aria-controls='collapseOne'> <span class=''>Cloud Computing</span> <ul class='list-cri'> <li>Total: 6</li> <li>Available: 4</li> </ul> </div> </h2> <div id='collapseOne' class='accordion-collapse collapse' aria-labelledby='headingOne' data-bs-parent='#accordionExample'> <div class='accordion-body'> <div class='list-curriculum'> <div class='pdfname'> <h2> <img src='images/pdficon.svg' alt=''> pdficonCroma Campus - Cloud Computing Training Curriculum </h2> </div> <div class='download-pdfbox'> <ul> <li> <a data-bs-toggle='modal' data-bs-target='#uploadpdfmodel'> <img src='images/uploadicon.svg' alt='uploadicon'> </a> <a href=''> <img src='images/downloadicon.svg' alt='downloadicon'> </a> </li> <li> <a href=''> <img src='images/excelicon.svg' alt='excelicon'> </a> <a href=''> <img src='images/viewicon.svg' alt='viewicon'> </a> <a href='edit-new-course-curriculum.html'> <img src='images/editicon.svg' alt='editicon'> </a> </li> <li> <a href=''> <img src='images/downloadicon.svg' alt='downloadicon'> </a> <a href=''> <img src='images/deleteicon.svg' alt='deleteicon'> </a> </li> </ul> </div> </div>    </div> </div> </div>"],
+ [
+      "<div class='accordion-item'> <h2 class='accordion-header' id='headingtwo'> <div class='accordion-button collapsed' type='button' data-bs-toggle='collapse' data-bs-target='#collapsetwo' aria-expanded='true' aria-controls='collapsetwo'> <span class=''>DevOps Engineering</span> <ul class='list-cri'> <li>Total: 6</li> <li>Available: 4</li> </ul> </div> </h2> <div id='collapsetwo' class='accordion-collapse collapse' aria-labelledby='headingtwo' data-bs-parent='#accordionExample'> <div class='accordion-body'> <div class='list-curriculum'> <div class='pdfname'> <h2><img src='images/pdficon.svg' alt=''> pdficonCroma Campus - Cloud Computing Training Curriculum </h2> </div> <div class='download-pdfbox'> <ul> <li><a data-bs-toggle='modal' data-bs-target='#uploadpdfmodel'><img src='images/uploadicon.svg' alt='uploadicon'></a><a href=''><img src='images/downloadicon.svg' alt='downloadicon'></a></li> <li><a href=''><img src='images/excelicon.svg' alt='excelicon'></a><a href=''><img src='images/viewicon.svg' alt='viewicon'></a><a href='edit-new-course-curriculum.html'> <img src='images/editicon.svg' alt='editicon'> </a></li> <li><a href=''><img src='images/downloadicon.svg' alt='downloadicon'></a><a href=''><img src='images/deleteicon.svg' alt='deleteicon'></a></li> </ul> </div> </div>    </div> </div> </div>"
+    ]  
+
+  ]
+}
